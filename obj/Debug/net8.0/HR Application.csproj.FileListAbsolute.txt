@@ -1,0 +1,83 @@
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\appsettings.json
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.staticwebassets.runtime.json
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.exe
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.deps.json
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.runtimeconfig.json
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\HR Application.pdb
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.AssemblyInfoInputs.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.AssemblyInfo.cs
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.csproj.CoreCompileInputs.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.RazorAssemblyInfo.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.RazorAssemblyInfo.cs
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets\msbuild.HR Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets\msbuild.build.HR Application.props
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HR Application.props
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HR Application.props
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\scopedcss\bundle\HR Application.styles.css
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\scopedcss\projectbundle\HR Application.bundle.scp.css
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.dll
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\refint\HR Application.dll
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.pdb
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.genruntimeconfig.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\ref\HR Application.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR Application\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Application.csproj.AssemblyReference.cache
+D:\Developent\Dotnet\Projects\HR Application\obj\Debug\net8.0\HR Appli.487FB1E8.Up2Date
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\appsettings.json
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.staticwebassets.runtime.json
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.exe
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.deps.json
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.runtimeconfig.json
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\HR Application.pdb
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR-Application\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.csproj.AssemblyReference.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.AssemblyInfoInputs.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.AssemblyInfo.cs
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.csproj.CoreCompileInputs.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.RazorAssemblyInfo.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.RazorAssemblyInfo.cs
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.sourcelink.json
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets\msbuild.HR Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets\msbuild.build.HR Application.props
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HR Application.props
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HR Application.props
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\scopedcss\bundle\HR Application.styles.css
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\scopedcss\projectbundle\HR Application.bundle.scp.css
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Appli.487FB1E8.Up2Date
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.dll
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\refint\HR Application.dll
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.pdb
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\HR Application.genruntimeconfig.cache
+D:\Developent\Dotnet\Projects\HR-Application\obj\Debug\net8.0\ref\HR Application.dll

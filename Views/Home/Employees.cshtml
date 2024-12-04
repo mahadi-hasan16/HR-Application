@@ -1,0 +1,73 @@
+﻿
+<h1>View Employee</h1>
+
+<div class="container">
+
+    <div class="search_employee">
+        <form method="get">
+            <div class="row">
+                <div class="form-group col-2">
+                    <label for="mobile">Mobile:</label>
+                    <input placeholder="Mobile" type="text" name="mobile" class="form-control" />
+                </div>
+
+                <div class="col-2">
+                    <button asp-controller="Employee" asp-action="FindEmployee" type="submit" class="btn btn-primary mt-4">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="employee_list mt-2">
+        <table id="employee_list" class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                    <th scope="col">Division</th>
+                    <th scope="col">Building</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Building</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.EmployeeId</td>
+                        <td>@employee.FirstName</td>
+                        <td>@employee.LastName</td>
+                        <td>@employee.Division</td>
+                        <td>@employee.Building</td>
+                        <td>@employee.Title</td>
+                        <td>@employee.Room</td>
+                        <td>
+                            <a asp-route-id="@employee.EmployeeId" asp-controller="Employee" asp-action="UpdateEmployee" class="btn btn-warning">
+                                <i class="text-black fa-solid fa-user-pen"></i>
+                            </a>
+                            <a asp-route-id="@employee.EmployeeId" asp-controller="Employee" asp-action="RemoveEmployee" class="btn btn-danger ml-3">
+                                <i class="text-black fa-solid fa-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+
+
+<script>
+    $(document).ready(function () {
+        $('#employee_list').DataTable(); // Initialize DataTables on the table with id 'myTable'
+    });
+</script>
+

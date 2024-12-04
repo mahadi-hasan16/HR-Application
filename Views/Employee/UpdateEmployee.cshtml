@@ -1,0 +1,42 @@
+﻿@model Employee
+
+<h1>Update Employee Information</h1>
+<form method="post" enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label class="form-label">Id</label>
+        <input asp-for="EmployeeId" type="text" class="form-control" id="employeeId" value="@ViewData["EmployeeId"]" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FirstName" for="firstName" class="form-label">First Name</label>
+        <input asp-for="FirstName" type="text" class="form-control" id="firstName" value="@ViewData["FirstName"]">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="LastName" for="lastName" class="form-label">Last Name</label>
+        <input asp-for="LastName" type="text" class="form-control" id="lastName" value="@ViewData["LastName"]">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Division" for="division" class="form-label">Division</label>
+        <input asp-for="Division" type="text" class="form-control" id="division" value="@ViewData["Division"]">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Building" for="building" class="form-label">Building</label>
+        <input asp-for="Building" type="text" class="form-control" id="building" value="@ViewData["Building"]">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Title" for="title" class="form-label">Title</label>
+        <input asp-for="Title" type="text" class="form-control" id="title" value="@ViewData["Title"]">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Room" for="Room" class="form-label">Room</label>
+        <input asp-for="Room" type="text" class="form-control" id="Room" value="@ViewData["Room"]">
+    </div>
+
+    <button asp-action="UpdateEmployee" asp-controller="Employee" type="submit" class="btn btn-primary">Update</button>
+</form>
